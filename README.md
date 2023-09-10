@@ -10,7 +10,9 @@
 
 💡 I believe in the continuous journey of learning and growth. With every dataset, every challenge, and every solution, I aim to evolve, innovate, and push the boundaries of what data can achieve.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvSTrivedi&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvSTrivedi&layout=compact" alt="Dhruv's Top Languages" />
+</p>
 
 ---
 
@@ -31,7 +33,7 @@ Pursuing an **Honours degree in Information Technology Management** with a minor
 ### 🔧 Tech Stack
 
 **Languages:** Python, R, SQL  
-**Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras  
+**Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras     
 **Visualization & Reporting:** Excel, Macros, Microstrategy, Tableau  
 **Databases:** MySQL, PostgreSQL, NoSQL
 
