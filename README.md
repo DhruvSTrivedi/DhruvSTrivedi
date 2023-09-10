@@ -10,6 +10,8 @@
 
 💡 I believe in the continuous journey of learning and growth. With every dataset, every challenge, and every solution, I aim to evolve, innovate, and push the boundaries of what data can achieve.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvSTrivedi&layout=compact)
+
 ---
 
 ### 📈 Recent Work & Achievements
