@@ -32,8 +32,7 @@ Pursuing an **Honours degree in Information Technology Management** with a minor
 
 Whether it's an intriguing data challenge, an opportunity to collaborate, or just a chat about the latest in data science, I'm all ears. Let's harness the power of data together!
 
-- **Email:** [d5trived@uwaterloo.ca](mailto:d5trived@uwaterloo.ca)
-- **LinkedIn:** [dhruvtrivedi75](https://www.linkedin.com/in/dhruvtrivedi75/)
+- **Email:** [dstrivedi19@gmail.com](mailto:dstrivedi19@gmail.com)
 
 ---
 
