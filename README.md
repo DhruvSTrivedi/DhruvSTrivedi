@@ -4,23 +4,15 @@
 
 ### 🌐 About Me
 
-🔍 Passionate Data Scientist with a knack for harnessing the power of numbers to drive business strategy and results. My journey through various industries has equipped me with a unique perspective to think critically and apply data-driven methodologies to solve complex problems.
+🔍 Dynamic and analytical professional with a solid foundation in advanced mathematics, data analysis, and IT  management systems from the University of Waterloo. My education is enhanced by a minor that sharpens my analytical and problem-solving capabilities.
 
-🚀 My expertise ranges from hands-on data analysis, predictive modelling, and machine learning, to strategic CRM analytics that enhance marketing strategies and sales outcomes.
+🚀 Proven track record in driving business growth and optimizing operations, using a comprehensive skill set in Python, R, SQL, and data analytics libraries like Pandas, PyTorch, TensorFlow, OpenCV, and Scikit-Learn for advanced data processing and analysis, predictive modelling, and machine learning.
 
 💡 I believe in the continuous journey of learning and growth. With every dataset, every challenge, and every solution, I aim to evolve, innovate, and push the boundaries of what data can achieve.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvSTrivedi&layout=compact" alt="Dhruv's Top Languages" />
 </p>
-
----
-
-### 📈 Recent Work & Achievements
-
-- At **UCook Pvt. Ltd.**, I leveraged machine learning to fine-tune business strategies, leading to a substantial **25% growth in conversion rates**.
-- With **Sarvottam International School**, I played a pivotal role in the redesign of their website, infusing data analytics capabilities right into its core.
-- As a **Data CRM Specialist** at **Western Agri Seeds Ltd.**, I pioneered data-centric techniques that spurred a **37% increase in customer accounts**.
 
 ---
 
